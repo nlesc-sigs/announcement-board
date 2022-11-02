@@ -25,6 +25,8 @@ This way, we don't have to maintain any agenda.
 Additionally, users can follow the announcement board via [the general RSS feed](https://sigs.esciencecenter.nl/feed/), or even subscribe to the feed corresponding to a SIG (see for instance the [Analytics feed](https://sigs.esciencecenter.nl/tag/Analytics-SIG/feed/)).
 More on RSS feeds [here](https://wordpress.com/support/feeds/).
 
+More information on the [about](https://sigs.esciencecenter.nl/about) page.
+
 ## Future developments
 
 - Add a calendar plug-in.
