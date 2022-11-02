@@ -31,3 +31,4 @@ More information on the [about](https://sigs.esciencecenter.nl/about) page.
 
 - Add a calendar plug-in.
 - Adapt the layout to our institutional style.
+- Rename to `board`, `agenda` or `announcements.esciencecenter.nl`.
